@@ -1,0 +1,39 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+} */
+
+.jumbotron{
+    background-image: url(../img/4.jpg);
+    background-size: cover;
+    height: 450px;
+    margin-top: 100px;
+}
+
+.display-4 {
+    font-size: 50px;
+    margin-top: -15px;
+}
+
+.jumbotron .btn {
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.contain {
+    margin-top: -110px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 627px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
